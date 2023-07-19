@@ -435,7 +435,7 @@ h6 {
   #hero .container {
     padding-top: 58px;
     margin: 0;
-    background: url(../img/hero-bg.jpg);
+    
   }
 }
 
@@ -482,7 +482,7 @@ h6 {
 @media (max-width: 992px) {
   #hero:before {
     content: "";
-    background: url("../img/bannier-diop.png");
+    background: url("../img/abdoulaye-diop2.jpg");
     position: absolute;
     bottom: 0;
     top: 0;
@@ -493,11 +493,15 @@ h6 {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
+    color: #f5f7f6;
+    background-color: #18d26e;
+    border-radius: 2px;
   }
 
   #hero h2 {
-    font-size: 18px;
+    font-size: 14px;
     line-height: 24px;
+    color: #f7f9f9;
   }
 }
 
