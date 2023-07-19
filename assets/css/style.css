@@ -497,12 +497,14 @@ h6 {
     color: #f5f7f6;
     background-color: #18d26e;
     border-radius: 2px;
+    margin-top: 40px;
   }
 
   #hero h2 {
     font-size: 14px;
     line-height: 24px;
     color: #f7f9f9;
+    background-color: #111;
   }
 }
 
